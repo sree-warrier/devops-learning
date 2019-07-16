@@ -1,0 +1,9 @@
+GIT
+AWS, Azure, GCP
+Jenkins, Travis (CI/CD)
+Artifactory (s3, jfrog, nexus)
+Ansible, Chef, Terraform
+Docker, K8s
+Mesos/Marathon
+Monitoring(Prometheus/grafana)
+NAT, Squid, Tunnel, Peering
